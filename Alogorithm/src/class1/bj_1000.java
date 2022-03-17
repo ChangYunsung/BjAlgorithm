@@ -1,9 +1,5 @@
-package algorithm.class1;
-/*
- * 2022.01.13
- * 백준 1000
- * 문제 : 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성
- */
+package class1;
+
 import java.util.Scanner;
 
 public class bj_1000 {
@@ -15,5 +11,6 @@ public class bj_1000 {
 		int b = sc.nextInt();
 		
 		System.out.println(a+b);
+		
 	}
 }
